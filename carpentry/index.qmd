@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-Bioconductor is a member of [The Carpentries](https://carpentries.org/), a global community focused on teaching foundational coding and data science skills. Our membership supports community members in earning Carpentries instructor certification, developing of Bioconductor-specific training materials, and enabling our certified instructors to teach Carpentry workshops at Bioconductor events and beyond. While not an official Carpentries program like Software, Data, or Library Carpentry, Bioconductor Carpentry is aligned in spirit with The Carpentries and benefits from a close association.
+Bioconductor is a member of [The Carpentries](https://carpentries.org/), a global community focused on teaching foundational coding and data science skills. Our membership supports community members in earning Carpentries instructor certification, developing Bioconductor-specific training materials, and enabling our certified instructors to teach Carpentry workshops at Bioconductor events and beyond. While not an official Carpentries program like Software, Data, or Library Carpentry, Bioconductor Carpentry is aligned in spirit with The Carpentries and benefits from a close association.
 
 Coordinated through the University of Limerick (UL) by Dr. Maria Doyle, Bioconductor Community Manager and [ELIXIR Ireland](https://elixir-ireland.ie/) Training Coordinator, this program organises workshops — including upcoming initiatives planned for Africa and Latin America — supports instructors, and manages logistics to foster essential data science skills and collaborative learning opportunities across the life sciences community.
 
