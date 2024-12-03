@@ -31,7 +31,7 @@ lessons are developed as modules in their own repositories.
   bulk RNA-seq data. It expects good familiarity with R and the
   Bioconductor project.
 
-- [bioc-scrnaseq](https://github.com/carpentries-incubator/bioc-scrnaseq)
+- [bioc-scrnaseq](https://carpentries-incubator.github.io/bioc-scrnaseq/)
   **Analysis and interpretation of single-cell RNA sequencing data with
   Bioconductor** shows how to use Bioconductor packages for essential single-cell
   analysis steps including quality control, cell type annotation, multi-sample
